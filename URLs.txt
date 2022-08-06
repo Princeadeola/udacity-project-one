@@ -1,0 +1,16 @@
+<=============================================>
+CloudFront domain name 
+	↓
+https://d27733l7w40bey.cloudfront.net/
+
+
+<=============================================>
+Access the website via website-endpoint
+	↓
+http://my-085525580494-bucket.s3-website-us-east-1.amazonaws.com/
+
+
+<=============================================>
+Access the bucket object via its S3 object URL
+	↓
+https://my-085525580494-bucket.s3.amazonaws.com/index.html
